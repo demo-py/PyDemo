@@ -2,7 +2,7 @@
 A quick guide on the Python language
 
 ## Contents
-data_types
+data_types <br />
 a└ string
   ├ [` capitalize() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/capitalize().py>)
   ├ [` casefold() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/casefold().py>)
