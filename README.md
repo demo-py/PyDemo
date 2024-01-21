@@ -2,15 +2,15 @@
 A quick guide on the Python language
 
 ## Contents
-data_types
-└ string
-  ├ [` capitalize() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/capitalize().py>)
-  ├ [` casefold() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/casefold().py>)
-  ├ [` center() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/center().py>)
-  ├ [` count() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/count().py>)
-  ├ [` endswith() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/endswith().py>)
-  ├ [` expandtabs() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/expandtabs().py>)
-  ├ [` find() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/find().py>)
+data_types\n
+└ string\n
+  ├ [` capitalize() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/capitalize().py>)\n
+  ├ [` casefold() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/casefold().py>)\n
+  ├ [` center() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/center().py>)\n
+  ├ [` count() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/count().py>)\n
+  ├ [` endswith() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/endswith().py>)\n
+  ├ [` expandtabs() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/expandtabs().py>)\n
+  ├ [` find() `](<https://github.com/demo-py/PyDemo/blob/main/PyDemo/data_types/string/find().py>)\n
 
 
 # Disclaimer
