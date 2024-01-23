@@ -344,7 +344,7 @@ print(
 #  demo
 #    18
 
-# ------------------
+# ==================
 #
 # Using a dictionary
 
@@ -362,7 +362,7 @@ print(string.format(**dictionary))
 # Output :
 # hola ! Soy demo y soy 18 anos
 
-# ------------------------------
+# =============================
 #
 # Using lists
 
